@@ -1,0 +1,3 @@
+<header class="header"><p class="text">Це заголовок</p></header>
+<main class="main"><p class="text">Це основний контент</p></main>
+<footer class="footer"><p class="text">Це футер</p></footer>
